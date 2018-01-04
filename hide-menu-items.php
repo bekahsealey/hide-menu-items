@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hide Menu Items
-Plugin URI: http://bekahsealey.com/
+Plugin URI: http://nmomedia.com/services/web-services/products/wordpress-plugins/hide-menu-items/
 Description: This plugin hides private posts from custom menus
 Version: 1.0
 Author: Bekah Sealey
